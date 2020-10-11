@@ -1,0 +1,29 @@
+{
+  "name": "ofriberg",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "example",
+    "package",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/ofriberg/ofriberginputs",
+  "bugs": {
+    "url": "https://github.com/ofriberg/ofriberginputs/issues",
+    "email": "oscfriberg@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofriberg/ofriberginputs.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}

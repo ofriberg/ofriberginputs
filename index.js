@@ -1,4 +1,4 @@
 import Button from './Button'
 
-module.exports.area = radius => Math.PI*radius*radius;
-module.exports.Button = Button;
+const area = (radius) => Math.PI*radius*radius;
+export {Button, area}

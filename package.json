@@ -7,9 +7,6 @@
     "package",
     "tutorial"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "homepage": "https://github.com/ofriberg/ofriberginputs",
   "bugs": {
     "url": "https://github.com/ofriberg/ofriberginputs/issues",

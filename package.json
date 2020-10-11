@@ -7,7 +7,9 @@
     "package",
     "tutorial"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "homepage": "https://github.com/ofriberg/ofriberginputs",
   "bugs": {
     "url": "https://github.com/ofriberg/ofriberginputs/issues",
@@ -19,7 +21,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -29,5 +31,8 @@
   "engineStrict": true,
   "dependencies": {
     "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.5.3"
   }
 }
